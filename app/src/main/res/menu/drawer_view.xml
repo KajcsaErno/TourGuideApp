@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/nav_timisoara"
+            android:icon="@drawable/timisoara"
+            android:title="@string/timisoara" />
+
+        <item
+            android:id="@+id/nav_sibiu"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/sibiu" />
+
+        <item
+            android:id="@+id/nav_cluj"
+            android:icon="@drawable/cluj"
+            android:title="@string/cluj" />
+
+        <item
+            android:id="@+id/nav_brasov"
+            android:icon="@drawable/brasov"
+            android:title="@string/brasov" />
+
+        <item
+            android:id="@+id/nav_bucharest"
+            android:icon="@drawable/bucharest"
+            android:title="@string/bucharest" />
+        <item
+            android:id="@+id/nav_sighisoara"
+            android:icon="@drawable/sighisoara"
+            android:title="@string/sighisoara" />
+        <item
+            android:id="@+id/nav_iasi"
+            android:icon="@drawable/iasi"
+            android:title="@string/iasi" />
+
+        <item
+            android:id="@+id/nav_constanta"
+            android:icon="@drawable/constanta"
+            android:title="@string/constanta" />
+
+    </group>
+</menu>

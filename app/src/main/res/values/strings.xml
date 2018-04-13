@@ -1,0 +1,235 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Timisoara Attractions -->
+    <string name="timisoara">Timișoara</string>
+    <string name="timisoara_attraction_name_1">Timișoara Orthodox Cathedral</string>
+    <string name="timisoara_attraction_phone_1">+40 256 490 287</string>
+    <string name="timisoara_attraction_website_1">http://mitropolia-banatului.ro</string>
+    <string name="timisoara_attraction_address_1">Bulevardul Regele Ferdinand I, Timișoara</string>
+
+    <string name="timisoara_attraction_name_2">Unirii Square Timișoara</string>
+    <string name="timisoara_attraction_phone_2"></string>
+    <string name="timisoara_attraction_website_2">http://piataunirii.ro/</string>
+    <string name="timisoara_attraction_address_2">Piața Unirii, Timișoara</string>
+
+    <string name="timisoara_attraction_name_3">Victory Square Timișoara</string>
+    <string name="timisoara_attraction_phone_3"></string>
+    <string name="timisoara_attraction_website_3">https://www.tripadvisor.com/Attraction_Review-g298478-d523021-Reviews-Piata_Victoriei-Timisoara_Timis_County_Western_Romania_Transylvania.html</string>
+    <string name="timisoara_attraction_address_3">Piața Unirii 2&#8211;3, Timișoara</string>
+
+    <string name="timisoara_attraction_name_4">Communist Consumers Museum</string>
+    <string name="timisoara_attraction_phone_4">+40 724 592 379</string>
+    <string name="timisoara_attraction_website_4">https://www.facebook.com/muzeuconsumatorcomunist</string>
+    <string name="timisoara_attraction_address_4">Strada Arhitect Laszlo Szekely 1, Timișoara</string>
+
+    <string name="timisoara_attraction_name_5">Art Museums Timișoara</string>
+    <string name="timisoara_attraction_phone_5">+40 256 491 592</string>
+    <string name="timisoara_attraction_website_5">http://www.muzeuldeartatm.ro/en/</string>
+    <string name="timisoara_attraction_address_5">Piața Unirii 1, Timișoara</string>
+
+    <!-- Sibiu Attractions -->
+    <string name="sibiu">Sibiu</string>
+    <string name="sibiu_attraction_name_1">The Tower of the Council</string>
+    <string name="sibiu_attraction_phone_1">+40 369 405 253</string>
+    <string name="sibiu_attraction_website_1">http://patrimoniu.sibiu.ro/fortificatii/turnul_sfatului</string>
+    <string name="sibiu_attraction_address_1">Piața Mică 1, Sibiu</string>
+
+    <string name="sibiu_attraction_name_2">ASTRA National Museum Complex</string>
+    <string name="sibiu_attraction_phone_2">+40 756 085 794</string>
+    <string name="sibiu_attraction_website_2">http://www.muzeulastra.ro//</string>
+    <string name="sibiu_attraction_address_2">Strada Pădurea Dumbrava 16&#8211;20, Sibiu </string>
+
+    <string name="sibiu_attraction_name_3">Lutheran Cathedral of Saint Mary</string>
+    <string name="sibiu_attraction_phone_3"></string>
+    <string name="sibiu_attraction_website_3">http://patrimoniu.sibiu.ro/biserici_en/evanghelica/53</string>
+    <string name="sibiu_attraction_address_3">Piața Albert Huet FN, Sibiu</string>
+
+    <string name="sibiu_attraction_name_4">Brukenthal National Museum</string>
+    <string name="sibiu_attraction_phone_4">+40 269 217 691</string>
+    <string name="sibiu_attraction_website_4">http://www.brukenthalmuseum.ro/</string>
+    <string name="sibiu_attraction_address_4">Piața Mare 4 &#8211; 5, Sibiu</string>
+
+    <string name="sibiu_attraction_name_5">Piața Mare Sibiu</string>
+    <string name="sibiu_attraction_phone_5">+40 269 216 854</string>
+    <string name="sibiu_attraction_website_5">http://patrimoniu.sibiu.ro/en/</string>
+    <string name="sibiu_attraction_address_5">Piața Mare, Sibiu</string>
+
+    <!-- Cluj Attractions -->
+    <string name="cluj">Cluj</string>
+    <string name="cluj_attraction_name_1">Matthias Corvinus Statue &amp; St. Michael\s Church</string>
+    <string name="cluj_attraction_phone_1"></string>
+    <string name="cluj_attraction_website_1">https://en.wikipedia.org/wiki/Matthias_Corvinus_Monument</string>
+    <string name="cluj_attraction_address_1">Piața Unirii, Cluj&#8211;Napoca</string>
+
+    <string name="cluj_attraction_name_2">Alexandru Borza Botanical Garden</string>
+    <string name="cluj_attraction_phone_2">+40 264 592 152</string>
+    <string name="cluj_attraction_website_2">http://www.ubbcluj.ro/en/structura/sport/gradina_botanica</string>
+    <string name="cluj_attraction_address_2">Strada Republicii 42, Cluj&#8211;Napoca</string>
+
+    <string name="cluj_attraction_name_3">Cheile Turzii &#8211; Turda Gorge</string>
+    <string name="cluj_attraction_phone_3">+40 784 212 681</string>
+    <string name="cluj_attraction_website_3">http://turism-cheile-turzii.ro/en/</string>
+    <string name="cluj_attraction_address_3">Cheile Turzii, Cluj&#8211;Napoca</string>
+
+    <string name="cluj_attraction_name_4">Museum Square Cluj</string>
+    <string name="cluj_attraction_phone_4"></string>
+    <string name="cluj_attraction_website_4">http://travel-to-cluj.blogspot.ro/2010/08/museum-square.html</string>
+    <string name="cluj_attraction_address_4">Strada Constantin Daicoviciu, Cluj&#8211;Napoca</string>
+
+    <string name="cluj_attraction_name_5">Hoia Baciu Forest</string>
+    <string name="cluj_attraction_phone_5"></string>
+    <string name="cluj_attraction_website_5">https://hoiabaciuforest.com/</string>
+    <string name="cluj_attraction_address_5">Hoia Forest, Cluj&#8211;Napoca</string>
+
+    <!-- Brasov Attractions -->
+    <string name="brasov">Brașov</string>
+    <string name="brasov_attraction_name_1">Brașov County Museum of History</string>
+    <string name="brasov_attraction_phone_1">+40 268 472 350</string>
+    <string name="brasov_attraction_website_1">http://brasovistorie.ro</string>
+    <string name="brasov_attraction_address_1">Piața Sfatului 30, Brașov</string>
+
+    <string name="brasov_attraction_name_2">Black Church</string>
+    <string name="brasov_attraction_phone_2">+40 268 511 824</string>
+    <string name="brasov_attraction_website_2">http://www.honterusgemeinde.ro/</string>
+    <string name="brasov_attraction_address_2">Curte Honterus Johannes nr. 2, Brașov</string>
+
+    <string name="brasov_attraction_name_3">First Romanian School</string>
+    <string name="brasov_attraction_phone_3">+40 722 435 134</string>
+    <string name="brasov_attraction_website_3">http://www.primascoalaromaneasca.ro//</string>
+    <string name="brasov_attraction_address_3">Piața Unirii 2&#8211;3, Brașov</string>
+
+    <string name="brasov_attraction_name_4">The White Tower</string>
+    <string name="brasov_attraction_phone_4">+40 268 472 350</string>
+    <string name="brasov_attraction_website_4">https://ro.wikipedia.org/wiki/Turnul_Alb_din_Bra%C8%99ov</string>
+    <string name="brasov_attraction_address_4">Calea Poienii, Brașov</string>
+
+    <string name="brasov_attraction_name_5">Dracula &#8211; Bran Castle</string>
+    <string name="brasov_attraction_phone_5">+40 268 237 700</string>
+    <string name="brasov_attraction_website_5">http://www.bran-castle.com//</string>
+    <string name="brasov_attraction_address_5">Strada General Traian Moșoiu 24, Bran</string>
+
+    <!-- Bucharest Attractions -->
+    <string name="bucharest">Bucharest</string>
+    <string name="bucharest_attraction_name_1">Lipscani Bucuresti</string>
+    <string name="bucharest_attraction_phone_1"></string>
+    <string name="bucharest_attraction_website_1">https://en.wikipedia.org/wiki/Lipscani</string>
+    <string name="bucharest_attraction_address_1">Strada Lipscani, Bucharest</string>
+
+    <string name="bucharest_attraction_name_2">Unirii Square București</string>
+    <string name="bucharest_attraction_phone_2"></string>
+    <string name="bucharest_attraction_website_2">http://bulevarde.ro/bucuresti/piata-unirii</string>
+    <string name="bucharest_attraction_address_2">Unirii Square, Bucharest</string>
+
+    <string name="bucharest_attraction_name_3">Herastrau Park</string>
+    <string name="bucharest_attraction_phone_3">+40 21 224 5860</string>
+    <string name="bucharest_attraction_website_3">http://www.herastrauparc.ro/</string>
+    <string name="bucharest_attraction_address_3">B&#8211;dul Aviatorilor, Bucharest</string>
+
+    <string name="bucharest_attraction_name_4">Grigore Antipa National Museum of Natural History</string>
+    <string name="bucharest_attraction_phone_4">+40 21 312 8826</string>
+    <string name="bucharest_attraction_website_4">http://antipa.ro/en</string>
+    <string name="bucharest_attraction_address_4">Șoseaua Pavel Dimitrievici Kiseleff 1, Bucharest</string>
+
+    <string name="bucharest_attraction_name_5">Palace of the Parliament</string>
+    <string name="bucharest_attraction_phone_5">+40 733 558 102</string>
+    <string name="bucharest_attraction_website_5">https://en.wikipedia.org/wiki/Palace_of_the_Parliament</string>
+    <string name="bucharest_attraction_address_5">Strada Izvor 2&#8211;4, București</string>
+
+    <!-- Sighisoara Attractions -->
+    <string name="sighisoara">Sighișoara</string>
+    <string name="sighisoara_attraction_name_1">Sighisoara Historic Center</string>
+    <string name="sighisoara_attraction_phone_1"></string>
+    <string name="sighisoara_attraction_website_1">https://en.wikipedia.org/wiki/Historic_Centre_of_Sighi%C8%99oara/</string>
+    <string name="sighisoara_attraction_address_1">Sighișoara</string>
+
+    <string name="sighisoara_attraction_name_2">Clock Tower Sighișoara</string>
+    <string name="sighisoara_attraction_phone_2">+40 265 771 108</string>
+    <string name="sighisoara_attraction_website_2">https://en.wikipedia.org/wiki/Pia%C8%9Ba_Unirii</string>
+    <string name="sighisoara_attraction_address_2">Strada Turnului, Sighișoara</string>
+
+    <string name="sighisoara_attraction_name_3">Catherine\'s Gate Sighișoara</string>
+    <string name="sighisoara_attraction_phone_3">+40 21 224 5860</string>
+    <string name="sighisoara_attraction_website_3">http://www.romguide.net/Visit/Catherine-s-Gate_vt3ee</string>
+    <string name="sighisoara_attraction_address_3">Catherine Street, Sighișoara</string>
+
+    <string name="sighisoara_attraction_name_4">Covered Stairway Sighișoara</string>
+    <string name="sighisoara_attraction_phone_4"></string>
+    <string name="sighisoara_attraction_website_4">http://romaniatourism.com/sighisoara.html</string>
+    <string name="sighisoara_attraction_address_4">Scara Scolarilor, Sighișoara</string>
+
+    <string name="sighisoara_attraction_name_5">The History Museum Sighișoara</string>
+    <string name="sighisoara_attraction_phone_5">+40 265 771 108</string>
+    <string name="sighisoara_attraction_website_5">https://www.tripadvisor.com/Attraction_Review-g311309-d2324650-Reviews-The_History_Museum-Sighisoara_Mures_County_Central_Romania_Transylvania.html</string>
+    <string name="sighisoara_attraction_address_5">Piata Muzeului 1, Sighișoara</string>
+
+    <!-- Iasi Attractions -->
+    <string name="iasi">Iași</string>
+    <string name="iasi_attraction_name_1">Palace of Culture Iași</string>
+    <string name="iasi_attraction_phone_1">+40 232 275 979</string>
+    <string name="iasi_attraction_website_1">http://palatulculturii.ro//</string>
+    <string name="iasi_attraction_address_1">Iași</string>
+
+    <string name="iasi_attraction_name_2">Golia Monastery</string>
+    <string name="iasi_attraction_phone_2">+40 332 408 549</string>
+    <string name="iasi_attraction_website_2">http://new.iasi-info.ro/</string>
+    <string name="iasi_attraction_address_2">Strada Cuza Vodă 51, Iași</string>
+
+    <string name="iasi_attraction_name_3">Botanical Gardens Iasi</string>
+    <string name="iasi_attraction_phone_3">+40 232 201 373</string>
+    <string name="iasi_attraction_website_3">http://botanica.uaic.ro/</string>
+    <string name="iasi_attraction_address_3">Strada Dumbrava Roșie 7&#8211;9</string>
+
+    <string name="iasi_attraction_name_4">Roznovanu Palace</string>
+    <string name="iasi_attraction_phone_4"></string>
+    <string name="iasi_attraction_website_4">https://en.wikipedia.org/wiki/Roznovanu_Palace</string>
+    <string name="iasi_attraction_address_4">Bulevardul Ștefan cel Mare și Sfânt 11, Iași</string>
+
+
+    <string name="iasi_attraction_name_5">Luceafărul Theatre</string>
+    <string name="iasi_attraction_phone_5">+40 232 212 662</string>
+    <string name="iasi_attraction_website_5">http://luceafarul-theatre.ro/</string>
+    <string name="iasi_attraction_address_5">Strada Grigore Ureche 5, Iași</string>
+
+    <!-- Constanța Attractions -->
+    <string name="constanta">Constanța</string>
+    <string name="costanta_attraction_name_1">Mamaia Beach Constanța</string>
+    <string name="costanta_attraction_phone_1"></string>
+    <string name="costanta_attraction_website_1">http://www.mamaiaresort.com/</string>
+    <string name="costanta_attraction_address_1">Mamaia, Constanța</string>
+
+    <string name="costanta_attraction_name_2">Cazino Constanţa</string>
+    <string name="costanta_attraction_phone_2">+40 241 617 416</string>
+    <string name="costanta_attraction_website_2">https://en.wikipedia.org/wiki/Constan%C8%9Ba_Casino</string>
+    <string name="costanta_attraction_address_2">Bulevardul Regina Elisabeta 2, Constanța</string>
+
+    <string name="costanta_attraction_name_3">Delfinariu</string>
+    <string name="costanta_attraction_phone_3">+40 241 481 230</string>
+    <string name="costanta_attraction_website_3">http://www.delfinariu.ro/</string>
+    <string name="costanta_attraction_address_3">Bulevard Mamaia nr. 255, Constanta</string>
+
+    <string name="costanta_attraction_name_4">Romanian Navy Museum</string>
+    <string name="costanta_attraction_phone_4">+40 241 619 035</string>
+    <string name="costanta_attraction_website_4">http://www.romguide.net/Visit/The-Romanian-Navy-Museum_vt5df</string>
+    <string name="costanta_attraction_address_4">Strada Traian 53, Constanta</string>
+
+    <string name="costanta_attraction_name_5">Tomis Harbor</string>
+    <string name="costanta_attraction_phone_5"></string>
+    <string name="costanta_attraction_website_5">https://www.tripadvisor.com/Attraction_Review-g295396-d8129503-Reviews-Tomis_Harbor-Constanta_Constanta_County_Southeast_Romania.html</string>
+    <string name="costanta_attraction_address_5">Strada Lebedei, Constanta</string>
+
+
+    <!-- Home Page -->
+    <string name="intro_romania_1">Have you ever considered a city break in Romania? I bet you haven’t, although this relatively undiscovered Eastern European country prides itself with some really exciting destinations to choose from, whether you’re looking for rich culture, vibrant nightlife, or a romantic weekend away.</string>
+    <string name="intro_romania_2">While the scenic Carpathian Mountains, with their lovely resorts, breathtaking views, and buzzing ski slopes, draw plenty of overseas visitors to the country during winter, the Black Sea Coast greets them with sunshine and beach parties throughout the hot summer months. The Romanian cities, however, make for excellent year-round destinations, blending old and new in unique, interesting ways.</string>
+    <string name="intro_romania_3">Have a look at Romania’s most beautiful cities and find the one that’s suits you the best.</string>
+    <string name="home">Home</string>
+    <string name="romania">Romania</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="locationUri">geo:0,0 \"?q=\"</string>
+
+</resources>
