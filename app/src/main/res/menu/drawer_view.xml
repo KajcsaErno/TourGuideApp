@@ -9,40 +9,40 @@
 
         <item
             android:id="@+id/nav_timisoara"
-            android:icon="@drawable/timisoara"
+            android:icon="@drawable/ic_location_city_black_24dp"
             android:title="@string/timisoara" />
 
         <item
             android:id="@+id/nav_sibiu"
-            android:icon="@mipmap/ic_launcher"
+            android:icon="@drawable/ic_location_city_black_24dp"
             android:title="@string/sibiu" />
 
         <item
             android:id="@+id/nav_cluj"
-            android:icon="@drawable/cluj"
+            android:icon="@drawable/ic_location_city_black_24dp"
             android:title="@string/cluj" />
 
         <item
             android:id="@+id/nav_brasov"
-            android:icon="@drawable/brasov"
+            android:icon="@drawable/ic_location_city_black_24dp"
             android:title="@string/brasov" />
 
         <item
             android:id="@+id/nav_bucharest"
-            android:icon="@drawable/bucharest"
+            android:icon="@drawable/ic_location_city_black_24dp"
             android:title="@string/bucharest" />
         <item
             android:id="@+id/nav_sighisoara"
-            android:icon="@drawable/sighisoara"
+            android:icon="@drawable/ic_location_city_black_24dp"
             android:title="@string/sighisoara" />
         <item
             android:id="@+id/nav_iasi"
-            android:icon="@drawable/iasi"
+            android:icon="@drawable/ic_location_city_black_24dp"
             android:title="@string/iasi" />
 
         <item
             android:id="@+id/nav_constanta"
-            android:icon="@drawable/constanta"
+            android:icon="@drawable/ic_location_city_black_24dp"
             android:title="@string/constanta" />
 
     </group>

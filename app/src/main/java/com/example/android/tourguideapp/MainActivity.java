@@ -47,7 +47,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
 
-
                 Fragment fragment = null;
 
                 if (menuItem.isChecked()) {
@@ -115,11 +114,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-
     }
-
-
 
         @Override
         //when any item form action bar is tapped
@@ -132,4 +127,6 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+
 }

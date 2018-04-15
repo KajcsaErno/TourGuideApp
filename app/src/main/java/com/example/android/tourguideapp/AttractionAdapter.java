@@ -28,16 +28,7 @@ public class AttractionAdapter extends ArrayAdapter<Attraction> {
         }
         Attraction currentAttraction = getItem(position);
         //getting the current item
-//        View view = super.getView(position,convertView,parent);
         if (currentAttraction != null && convertView != null) {
-
-            //alternate row colors
-            if (position % 2 == 1) {
-                convertView.setBackgroundColor(getContext().getResources().getColor(R.color.myRed));
-            } else {
-                convertView.setBackgroundColor(getContext().getResources().getColor(R.color.colorPrimary));
-            }
-
 
             //Setting the attraction name
             TextView nameTextView = listItemView.findViewById(R.id.name);
