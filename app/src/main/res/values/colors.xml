@@ -4,8 +4,8 @@
     <color name="colorPrimaryDark">#1F1C18</color>
     <color name="colorAccent">#FF0000</color>
 
-    <color name="myBlue1">#1976D2</color>
-    <color name="myBlue2">#1565C0</color>
+    <color name="myBlue1">#1E88E5</color>
+    <color name="myBlue2">#448AFF</color>
 
-    <color name="myRed">#D50000</color>
+
 </resources>

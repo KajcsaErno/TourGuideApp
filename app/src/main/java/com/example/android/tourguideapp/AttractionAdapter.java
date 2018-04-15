@@ -26,9 +26,16 @@ public class AttractionAdapter extends ArrayAdapter<Attraction> {
             listItemView = LayoutInflater.from(getContext()).inflate(
                     R.layout.list_item, parent, false);
         }
-        Attraction currentAttraction = getItem(position);
         //getting the current item
-        if (currentAttraction != null && convertView != null) {
+        Attraction currentAttraction = getItem(position);
+
+        //adding 2 different colors for the list view
+        if (convertView != null) {
+            if (position % 2 == 1) {
+                convertView.setBackgroundColor(getContext().getResources().getColor(R.color.myBlue1));
+            } else
+                convertView.setBackgroundColor(getContext().getResources().getColor(R.color.myBlue2));
+        }
 
             //Setting the attraction name
             TextView nameTextView = listItemView.findViewById(R.id.name);
@@ -55,7 +62,7 @@ public class AttractionAdapter extends ArrayAdapter<Attraction> {
             ImageView imageView = listItemView.findViewById(R.id.image_view);
             imageView.setImageResource(currentAttraction.getImageResourceId());
 
-        }
+//        }
 
         return listItemView;
     }
